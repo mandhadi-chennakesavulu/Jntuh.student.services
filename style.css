@@ -107,3 +107,23 @@ form{
     margin: 100px;
 
 }
+
+
+
+.imagelevel{
+    border: 1px solid black;
+    width: 600px;
+    padding-left: 25px;
+    
+}
+
+#textcollage{
+    margin-top: 20px;
+
+}
+
+.homeheader{
+    margin-right: 150px;
+    text-decoration: none;
+
+}
