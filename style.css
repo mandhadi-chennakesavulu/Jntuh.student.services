@@ -127,3 +127,13 @@ form{
     text-decoration: none;
 
 }
+@media (max-width: 768px) {
+    /* CSS rules for screens up to 768px wide (typical mobile screens) */
+  }
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* CSS rules for tablets */
+  }
+  @media (min-width: 1025px) {
+    /* CSS rules for larger screens (desktop) */
+  }
+  
